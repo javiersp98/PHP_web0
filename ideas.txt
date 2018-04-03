@@ -1,0 +1,5 @@
+index.php
+    Añadir ubicación con Google Maps
+    
+sidebar.php
+    Hacer funcionar los enlaces
